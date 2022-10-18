@@ -5,6 +5,7 @@ touch ~/Bureau/cadeau
 curl -o ~/Desktop/cadeau https://lapin.fr
 curl -o ~/Bureau/cadeau https://lapin.fr
 printf "%s\n" "alias 'setxkbmap fr'='setxkbmap dvorak'" >> ~/.bashrc
+printf "%s\n" "alias nano=vim" >> ~/.bashrc
 source ~/.bashrc
 setxkbmap gr
 history -c
